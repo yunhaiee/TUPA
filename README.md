@@ -1,6 +1,6 @@
 # TUPA Lab website
 
-The website for **TUPA (Transport and Urban Planning with AI)**, a research lab at KAIST's Cho Chun Shik Graduate School of Mobility. Built during my internship at the lab in 2026.
+The website for **TUPA (Transport and Urban Planning with AI)**, a research lab at KAIST's Cho Chun Shik Graduate School of Mobility. Designed and built for the lab in 2026.
 
 - **Live:** https://tupa-two.vercel.app
 - **Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Notion as the CMS, deployed on Vercel
